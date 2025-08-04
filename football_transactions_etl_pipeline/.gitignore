@@ -1,0 +1,10 @@
+logs
+config
+plugins
+venv
+.terraform*
+*__
+__init*
+ingestion/*
+*api_to_rds.py
+*rds_instance.tf
